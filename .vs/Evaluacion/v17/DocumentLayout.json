@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADB19FA-95A4-4550-B24C-7A026300FB50}|Usuario\\Usuario.csproj|c:\\users\\naole\\onedrive\\comunidad\\documentos\\practica. control de flujo\\evaluacion\\usuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5ADB19FA-95A4-4550-B24C-7A026300FB50}|Usuario\\Usuario.csproj|solutionrelative:usuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADB19FA-95A4-4550-B24C-7A026300FB50}|Usuario\\Usuario.csproj|c:\\users\\naole\\onedrive\\comunidad\\documentos\\practica. control de flujo\\evaluacion\\usuario\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADB19FA-95A4-4550-B24C-7A026300FB50}|Usuario\\Usuario.csproj|solutionrelative:usuario\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F969960-F56F-46FF-8A1C-121E894ECA94}|Evaluacion\\Evaluacion.csproj|c:\\users\\naole\\onedrive\\comunidad\\documentos\\practica. control de flujo\\evaluacion\\evaluacion\\models\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F969960-F56F-46FF-8A1C-121E894ECA94}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\models\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADB19FA-95A4-4550-B24C-7A026300FB50}|Usuario\\Usuario.csproj|c:\\users\\naole\\onedrive\\comunidad\\documentos\\practica. control de flujo\\evaluacion\\usuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADB19FA-95A4-4550-B24C-7A026300FB50}|Usuario\\Usuario.csproj|solutionrelative:usuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F969960-F56F-46FF-8A1C-121E894ECA94}|Evaluacion\\Evaluacion.csproj|c:\\users\\naole\\onedrive\\comunidad\\documentos\\practica. control de flujo\\evaluacion\\evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F969960-F56F-46FF-8A1C-121E894ECA94}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F969960-F56F-46FF-8A1C-121E894ECA94}|Evaluacion\\Evaluacion.csproj|c:\\users\\naole\\onedrive\\comunidad\\documentos\\practica. control de flujo\\evaluacion\\evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F969960-F56F-46FF-8A1C-121E894ECA94}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Evaluacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Evaluacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Evaluacion\\Form1.cs",
+              "RelativeToolTip": "Evaluacion\\Form1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAIAwwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:11:43.427Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Usuario\\Form1.cs",
+              "RelativeDocumentMoniker": "Usuario\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Usuario\\Form1.cs",
+              "RelativeToolTip": "Usuario\\Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwFwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T01:04:44.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Usuario\\models\\User.cs",
+              "RelativeDocumentMoniker": "Usuario\\models\\User.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Usuario\\models\\User.cs",
+              "RelativeToolTip": "Usuario\\models\\User.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T01:00:56.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Usuario\\Form1.cs",
+              "RelativeDocumentMoniker": "Usuario\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Usuario\\Form1.cs [Design]",
+              "RelativeToolTip": "Usuario\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:56:17.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "number.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Evaluacion\\models\\number.cs",
+              "RelativeDocumentMoniker": "Evaluacion\\models\\number.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Evaluacion\\models\\number.cs",
+              "RelativeToolTip": "Evaluacion\\models\\number.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:09:03.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Evaluacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Evaluacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\comunidad\\Documentos\\Practica. Control de flujo\\Evaluacion\\Evaluacion\\Form1.cs [Design]",
+              "RelativeToolTip": "Evaluacion\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T21:38:34.829Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
